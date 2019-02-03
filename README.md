@@ -1,7 +1,7 @@
 ## J.P. Morgan Code 4 Good: Hackathon
-### Team 21
+#### Team 21
 
-### Members of Team 21: Lalitha Priya Bhupalam, Mehdi Naderi Varandi, Yavor Edipov, James Craster, Oluwafemi Oladipo, Iurii Maksymets
+#### Members of Team 21: Lalitha Priya Bhupalam, Mehdi Naderi Varandi, Yavor Edipov, James Craster, Oluwafemi Oladipo, Iurii Maksymets
 
 Our aim in this project was to engage users better and streamline the resources usually needed for conducting a longitudinal study. Through our work, we were able to deliver a website that gamified research in the hopes of retaining participant engagement over long periods of time, whilst making a platform for research that is portable and easy for data extraction.
 
